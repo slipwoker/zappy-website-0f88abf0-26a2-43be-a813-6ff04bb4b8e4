@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רכשו קודים דיגיטליים למשחקים ומנויים ב-PlayStation Network, Xbox ו-Nintendo. משלוח מיידי, מחירים משתלמים ומבחר ענק של best ps5 games!
+
+### אודות
+https://example.com/about
+Agevers מתמחה במכירת קודים דיגיטליים למשחקים ומנויים לכל הפלטפורמות. שירות מהיר, אמין ומקצועי לגיימרים הישראלים מאז היום הראשון.
+
+### שאלות נפוצות
+https://example.com/faq
+כל מה שרציתם לדעת על רכישת קודים ל-PlayStation Store, Xbox ו-Nintendo. מדריכים, הסברים ותשובות לשאלות הנפוצות ביותר של גיימרים.
+
+### צור קשר
+https://example.com/contact
+צריכים עזרה עם קוד דיגיטלי או מנוי? צוות התמיכה שלנו זמין לכם בכל שאלה. יצירת קשר מהירה ומענה מקצועי לכל בעיה או פנייה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Agevers
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Agevers
+
+### Category
+https://example.com/category/:slug
+מוצרים - Agevers
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
